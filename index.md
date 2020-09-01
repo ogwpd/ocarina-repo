@@ -4,6 +4,7 @@ Ocarina is an "Experimental linux-like package manager for Windows" like it page
 ## How I can upload apps?
 You can make a Pull request, we will analize it and upload it
 ## What's the URL of this repository?
-We're making it
-## WARING!!!!!
-This repo is for 64 bits PC only. We're making a 32 bits repo coming soon.
+### 64 bits
+https://ocarina.ogwpd.tk/64 - https://raw.githubusercontent.com/ogwpd/ocarina-repo/master/64
+### 32 bits
+Coming Soon!
