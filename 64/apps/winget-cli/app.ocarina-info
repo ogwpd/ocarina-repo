@@ -1,0 +1,3 @@
+name*Windows Package Manager (winget)
+type*app-ins
+url*https://github.com/microsoft/winget-cli/releases/download/v0.1.42241-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundle
